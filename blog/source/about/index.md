@@ -4,7 +4,7 @@ date: 2018-09-28 14:50:35
 ---
 
 ## 關於我
-一位從Java世界的工程是，跨界來到Microsoft異世界，正努開拓一片小天地，從C#、Asp.Net MVC5、.net Framework 4.5、Entity Framework 5入門打怪，遇到JavaScript（ECMAScript 6 [ES6] 、 ECMAScript 2015、 ECMAScript 2016）的崛起，前端開始進入大亂鬥Html5、CSS3、SPA、Bootstrap、AngularJS、ReactJS、VueJS、NodeJS，應聲而起的工具Webpack、SCSS、Visual Studio Code，可說是戰國時代。
+一位從Java世界的工程師，跨界來到Microsoft異世界，正努開拓一片小天地，從C#、Asp.Net MVC5、.net Framework 4.5、Entity Framework 5入門打怪，遇到JavaScript（ECMAScript 6 [ES6] 、 ECMAScript 2015、 ECMAScript 2016）的崛起，前端開始進入大亂鬥Html5、CSS3、SPA、Bootstrap、AngularJS、ReactJS、VueJS、NodeJS，應聲而起的工具Webpack、SCSS、Visual Studio Code，可說是戰國時代。
 
 已不再是簡單的JavaScript腳本Web頁面，必須兼顧美觀以及RWD[Responsive web design]響應式網頁設計，提供行動裝置畫面的UI體驗。
 
