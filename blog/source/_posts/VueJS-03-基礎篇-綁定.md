@@ -6,7 +6,7 @@ tags: VueJs
 
 # 單向綁定資料
 
-使用`v-model`標籤語法，將html元素與VueJs資料進行Match。
+使用`v-model`標籤語法，使Html元素`<input>`、`<select>`、`<textarea>`與`components`，將VueJs資料進行Match綁定。
 
 ## v-model 語法
 
